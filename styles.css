@@ -1,0 +1,28 @@
+body {
+  font-family: 'Roboto', 'Helvetica', sans-serif;
+}
+
+.centered {
+  display: block;
+  max-width: 500px;
+  margin: 20px auto;
+  padding: 10px;
+  border-radius: 3px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Product Sans', 'Roboto', 'Helvetica', sans-serif;
+}
+
+.centered h1, .centered h2, .centered h3, .centered h4, .centered h5, .centered h6 {
+  text-align: center;
+}
+
+.button-margin {
+  margin-top: 10px;
+}
+
+#chart {
+  height: 250px;
+  margin-bottom: 20px;
+}
